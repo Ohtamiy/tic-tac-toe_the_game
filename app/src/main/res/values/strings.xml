@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tic-tac-toe_fragments</string>
+    <string name="enter_name">Введіть логін  </string>
+    <string name="enter_password">Введіть пароль</string>
+    <string name="login_btn">Авторизуватися</string>
+    <string name="logo">logo</string>
+    <string name="tic_tac_toe_the_game">Tic-tac-toe the game</string>
+    <string name="exit_btn">Вийти</string>
+    <string name="play_again_btn">Почати заново</string>
+    <string name="ok">OK</string>
+</resources>
