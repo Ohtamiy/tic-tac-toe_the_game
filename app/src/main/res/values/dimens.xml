@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_text_size">20sp</dimen>
+    <dimen name="login_page_text_size">18sp</dimen>
+    <dimen name="button_text_size">15sp</dimen>
+    <dimen name="game_text_size">30sp</dimen>
+    <dimen name="layout_margin_button">8dp</dimen>
+    <dimen name="margin_top_game_text">20dp</dimen>
+    <dimen name="min_width_height_filed">200dp</dimen>
+</resources>
